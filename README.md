@@ -1,6 +1,6 @@
-# Global Products and Services Directory
+# Global Products and Services Automation
 
-This repository contains information about the world's most essential products and services that drive the global economy.
+This repository contains information about the world's most essential products and services that drive the global economy, what can be automated using AI agents
 
 ## Categories
 
