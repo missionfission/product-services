@@ -15,5 +15,6 @@ This repository contains information about the world's most essential products a
 - [Retail Services](./services/retail/README.md)
 - [Construction Services](./services/construction/README.md)
 - [Telecommunications Services](./services/telecommunications/README.md)
+- [Entertainment and Media Services](./services/entertainment/README.md)
 
 Each category contains detailed information about key products and services, major providers, and their global impact.
